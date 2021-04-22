@@ -1,0 +1,12 @@
+.fab:hover { 
+    color: #F9572F;
+}
+.links {
+    color : '#F9572F';
+}
+@media( max-width : 1400px ) {
+    .ad {
+        min-width: 100%;
+    }
+}
+
